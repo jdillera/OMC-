@@ -908,7 +908,7 @@ The zap extremely electrocuted you.
         else:
             two_crystal = input('Would you please state again... ')
 
-def crystal_hunt_three()
+def crystal_hunt_three():
     while True:
         print('The second crystal was found.')
         print('Lets take a small break')
